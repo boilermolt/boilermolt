@@ -1,0 +1,346 @@
+{
+  "topic": "creator coins base Zora",
+  "range": {
+    "from": "2026-01-19",
+    "to": "2026-02-18"
+  },
+  "generated_at": "2026-02-18T10:52:45.689996+00:00",
+  "mode": "reddit-web",
+  "openai_model_used": "gpt-5.2",
+  "xai_model_used": null,
+  "reddit": [
+    {
+      "id": "RS1",
+      "title": "Did Zora just backstab Base?",
+      "url": "https://www.reddit.com/r/BASE/comments/1r7c9ls/did_zora_just_backstab_base/",
+      "subreddit": "BASE",
+      "date": "2026-02-17",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/BASE supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 96,
+        "engagement": 50
+      },
+      "score": 65
+    },
+    {
+      "id": "RS2",
+      "title": "Understanding x402: Why It Exists and How It Works",
+      "url": "https://www.reddit.com/r/BASE/comments/1r70cki/understanding_x402_why_it_exists_and_how_it_works/",
+      "subreddit": "BASE",
+      "date": "2026-02-17",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/BASE supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 96,
+        "engagement": 50
+      },
+      "score": 65
+    },
+    {
+      "id": "RS3",
+      "title": "Farcaster vs Base App: A Quick Comparison in 2026  From Social Integration to Separate Paths",
+      "url": "https://www.reddit.com/r/BASE/comments/1r6ekkn/farcaster_vs_base_app_a_quick_comparison_in_2026/",
+      "subreddit": "BASE",
+      "date": "2026-02-16",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/BASE supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 93,
+        "engagement": 50
+      },
+      "score": 64
+    },
+    {
+      "id": "RS5",
+      "title": "Current Top Tokens & Memecoins on Base Chain by Market Cap (Feb 2026) What's Winning Right Now?",
+      "url": "https://www.reddit.com/r/BASE/comments/1r5hj71/current_top_tokens_memecoins_on_base_chain_by/",
+      "subreddit": "BASE",
+      "date": "2026-02-15",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/BASE supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 90,
+        "engagement": 50
+      },
+      "score": 63
+    },
+    {
+      "id": "RS16",
+      "title": "I researched the relationship between energy prices and mining costs. I wondered what you guys think about the viability of crypto when miners transition to AI services for bigtech as mining becomes too expensive.",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1r5byos/i_researched_the_relationship_between_energy/",
+      "subreddit": "CryptoCurrency",
+      "date": "2026-02-15",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoCurrency supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 90,
+        "engagement": 50
+      },
+      "score": 63
+    },
+    {
+      "id": "RS4",
+      "title": "Sunday at Base - February 15, 2026",
+      "url": "https://www.reddit.com/r/BASE/comments/1r5k2b1/sunday_at_base_february_15_2026/",
+      "subreddit": "BASE",
+      "date": "2026-02-15",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/BASE supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 90,
+        "engagement": 50
+      },
+      "score": 63
+    },
+    {
+      "id": "RS17",
+      "title": "Anyone remembers 2013 and the likes? Simpler times... I was digging through old posts and found something.",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1r4yzor/anyone_remembers_2013_and_the_likes_simpler_times/",
+      "subreddit": "CryptoCurrency",
+      "date": "2026-02-14",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoCurrency supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 86,
+        "engagement": 50
+      },
+      "score": 62
+    },
+    {
+      "id": "RS20",
+      "title": "February Crash Wiped $10 Billion+ From BTC Treasury Companies. Is The \"Bitcoin On Balance Sheet\" Strategy Broken?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1r3cvqb/february_crash_wiped_10_billion_from_btc_treasury/",
+      "subreddit": "CryptoCurrency",
+      "date": "2026-02-13",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoCurrency supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 83,
+        "engagement": 50
+      },
+      "score": 62
+    },
+    {
+      "id": "RS18",
+      "title": "Literally a newb at crypto..help me\ud83d\ude05\ud83e\udd23",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1r44bwx/literally_a_newb_at_cryptohelp_me/",
+      "subreddit": "CryptoCurrency",
+      "date": "2026-02-13",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoCurrency supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 83,
+        "engagement": 50
+      },
+      "score": 62
+    },
+    {
+      "id": "RS19",
+      "title": "Vitalik Buterin Openly Criticizes USDC, Favors Algo Stablecoins, Do you trust Algo Stablecoins?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1r3tbt4/vitalik_buterin_openly_criticizes_usdc_favors/",
+      "subreddit": "CryptoCurrency",
+      "date": "2026-02-13",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoCurrency supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 83,
+        "engagement": 50
+      },
+      "score": 62
+    },
+    {
+      "id": "RS11",
+      "title": "Openfabric AI ($OFN): Deep Investigation into a Classic Slow Rug Pull \u2013 Hack, Migration, Delistings, and the Vanished Team Page",
+      "url": "https://www.reddit.com/r/CryptoScams/comments/1r30lt3/openfabric_ai_ofn_deep_investigation_into_a/",
+      "subreddit": "CryptoScams",
+      "date": "2026-02-12",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoScams supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 80,
+        "engagement": 50
+      },
+      "score": 61
+    },
+    {
+      "id": "R18",
+      "title": "Saw this token. Does anyone know what it does?",
+      "url": "https://www.reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/",
+      "subreddit": "BASE",
+      "date": "2026-02-01",
+      "date_confidence": "high",
+      "engagement": {
+        "score": 12,
+        "num_comments": 6,
+        "upvote_ratio": 0.93
+      },
+      "top_comments": [
+        {
+          "score": 4,
+          "date": "2026-02-01",
+          "author": "mehran_73",
+          "excerpt": "Having a creator coin in a Base wallet is normal and anyone can choose the name of their token however they want. So just the token name doesn\u2019t mean it\u2019s official or real. To find out more, search th",
+          "url": "https://reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/o2y1xys/"
+        },
+        {
+          "score": 3,
+          "date": "2026-02-02",
+          "author": "ninjanuj",
+          "excerpt": "You seein this on base app right??? \nI would suggest don't jump into buying something till u have info bout this. \nIt could be a creator coin or a scam token as well. \nCould you share CA of this token",
+          "url": "https://reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/o342w44/"
+        }
+      ],
+      "comment_insights": [
+        "Having a creator coin in a Base wallet is normal and anyone can choose the name of their token however they want.",
+        "You seein this on base app right??? \nI would suggest don't jump into buying something till u have info bout this."
+      ],
+      "relevance": 0.7,
+      "why_relevant": "Discussion includes that 'creator coins' in Base wallets are normal and how to research them; related to creator coin ecosystem.",
+      "subs": {
+        "relevance": 70,
+        "recency": 43,
+        "engagement": 50
+      },
+      "score": 57
+    },
+    {
+      "id": "RS12",
+      "title": "FRK Group, Freckie Capital, Bosonic are SCAMS",
+      "url": "https://www.reddit.com/r/CryptoScams/comments/1qwc9ix/frk_group_freckie_capital_bosonic_are_scams/",
+      "subreddit": "CryptoScams",
+      "date": "2026-02-05",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoScams supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 56,
+        "engagement": 50
+      },
+      "score": 55
+    },
+    {
+      "id": "RS13",
+      "title": "base-nft (scam)",
+      "url": "https://www.reddit.com/r/CryptoScams/comments/1ql8se2/basenft_scam/",
+      "subreddit": "CryptoScams",
+      "date": "2026-01-24",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoScams supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 16,
+        "engagement": 50
+      },
+      "score": 45
+    },
+    {
+      "id": "RS14",
+      "title": "Offered \u201cinsider access\u201d to a Solana memecoin pre-launch. Scam or legit?",
+      "url": "https://www.reddit.com/r/CryptoScams/comments/1qis5o6/offered_insider_access_to_a_solana_memecoin/",
+      "subreddit": "CryptoScams",
+      "date": "2026-01-21",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoScams supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 6,
+        "engagement": 50
+      },
+      "score": 42
+    },
+    {
+      "id": "RS15",
+      "title": "TPBit",
+      "url": "https://www.reddit.com/r/CryptoScams/comments/1qikkhx/tpbit/",
+      "subreddit": "CryptoScams",
+      "date": "2026-01-21",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.65,
+      "why_relevant": "Found in r/CryptoScams supplemental search",
+      "subs": {
+        "relevance": 65,
+        "recency": 6,
+        "engagement": 50
+      },
+      "score": 42
+    }
+  ],
+  "x": [],
+  "web": [],
+  "youtube": [],
+  "best_practices": [],
+  "prompt_pack": [],
+  "context_snippet_md": "# Context: creator coins base Zora (Last 30 Days)\n\n*Generated: 2026-02-18 | Sources: reddit-web*\n\n## Key Sources\n\n- [Reddit] Did Zora just backstab Base?\n- [Reddit] Understanding x402: Why It Exists and How It Works\n- [Reddit] Farcaster vs Base App: A Quick Comparison in 2026  From Social Integration to Separate Paths\n- [Reddit] Current Top Tokens & Memecoins on Base Chain by Market Cap (Feb 2026) What's Winning Right Now?\n- [Reddit] I researched the relationship between energy prices and mining costs. I wondered what you guys think about the viability of crypto when miners transition to AI services for bigtech as mining becomes too expensive.\n\n## Summary\n\n*See full report for best practices, prompt pack, and detailed sources.*\n",
+  "web_error": "HTTPError: HTTP 422: Unprocessable Entity"
+}
