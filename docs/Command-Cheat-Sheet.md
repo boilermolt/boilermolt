@@ -150,6 +150,14 @@ Proposed usage:
 - `remember: <facts>` / `what did we decide about <topic>?`
   - (Internal helpers exist; you can just ask in plain English and I’ll log/recall.)
 
+### Deep research (local-first)
+Default deliverable: **Obsidian**
+
+- `deep research: <question>`
+- `deep research: <question> last 30 days`
+- `deep research: <question> --deliverable obsidian|substack|github`
+  - Includes Substack discovery (Option A) via web search: `site:substack.com <topic>`
+
 ### Proton email (agent-side)
 - Send an email (HTML supported):
   ```bash

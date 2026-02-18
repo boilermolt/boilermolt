@@ -60,8 +60,8 @@ Output should answer:
 - What to watch next?
 
 ### 6) Deliverables
-Choose the format requested:
-- **Obsidian-ready note**: headings + bullet structure + wikilinks when relevant
+Choose the format requested. **Default: Obsidian-ready note.**
+- **Obsidian-ready note (default)**: headings + bullet structure + wikilinks when relevant
 - **Share-ready**: short takeaways + “what to read first” + 1–3 links
 - **Last30days-style**: “Top 10 developments” + “contrarian takes” + “forecast”
 
