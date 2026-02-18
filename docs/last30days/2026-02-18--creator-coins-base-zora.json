@@ -4,191 +4,309 @@
     "from": "2026-01-19",
     "to": "2026-02-18"
   },
-  "generated_at": "2026-02-18T11:26:07.404925+00:00",
-  "mode": "reddit-web",
+  "generated_at": "2026-02-18T11:28:01.318624+00:00",
+  "mode": "both",
   "openai_model_used": "gpt-5.2",
   "xai_model_used": null,
   "reddit": [
     {
-      "id": "R15",
-      "title": "How I would do creator coins",
-      "url": "https://www.reddit.com/r/ethereum/comments/1qsysag/how_i_would_do_creator_coins/",
-      "subreddit": "ethereum",
+      "id": "R14",
+      "title": "Saw this token. Does anyone know what it does?",
+      "url": "https://www.reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/",
+      "subreddit": "BASE",
       "date": "2026-02-01",
       "date_confidence": "high",
       "engagement": null,
       "top_comments": [],
       "comment_insights": [],
-      "relevance": 0.7,
-      "why_relevant": "Broader creator coin design discussion referencing Zora as an example in the category.",
+      "relevance": 0.55,
+      "why_relevant": "Talks about Base wallet tokens possibly being creator coins; relevant to creator-coin ecosystem on Base/Zora.",
       "subs": {
-        "relevance": 70,
+        "relevance": 55,
         "recency": 43,
         "engagement": 50
       },
-      "score": 54
+      "score": 47
     },
     {
-      "id": "R19",
-      "title": "Invite | Zora",
-      "url": "https://www.reddit.com/r/ReferralNotReferal/comments/1qj094n/invite_zora/",
-      "subreddit": "ReferralNotReferal",
-      "date": "2026-01-21",
-      "date_confidence": "high",
+      "id": "R12",
+      "title": "How to triple your earnings on baseapp",
+      "url": "https://www.reddit.com/r/BASE/comments/1oz6y9c/how_to_triple_your_earnings_on_baseapp/",
+      "subreddit": "BASE",
+      "date": null,
+      "date_confidence": "low",
       "engagement": null,
       "top_comments": [],
       "comment_insights": [],
-      "relevance": 0.62,
-      "why_relevant": "Spammy but still a direct thread about joining Zora and buying creator coins (included per 'all matches').",
+      "relevance": 0.7,
+      "why_relevant": "Explains Base App + Zora integration and turning posts into tradeable 'Content Coin/Creator Coin' on Base.",
       "subs": {
-        "relevance": 62,
-        "recency": 6,
+        "relevance": 70,
+        "recency": 0,
         "engagement": 50
       },
-      "score": 41
+      "score": 38
+    },
+    {
+      "id": "R17",
+      "title": "Zora\u2019s \u201cCoin\u201d system is wild ! Anyone else experimenting with it?",
+      "url": "https://www.reddit.com/r/ethtrader/comments/1k5y0in/zoras_coin_system_is_wild_anyone_else/",
+      "subreddit": "ethtrader",
+      "date": null,
+      "date_confidence": "low",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.64,
+      "why_relevant": "General discussion thread about Zora's coin system (creator/content coins).",
+      "subs": {
+        "relevance": 64,
+        "recency": 0,
+        "engagement": 50
+      },
+      "score": 35
+    },
+    {
+      "id": "R11",
+      "title": "As Base Scales Up, Are Community Concerns Scaling Too?? Share Your Feedback and Concerns on Base\u2019s Growth! \u270d\ufe0f",
+      "url": "https://www.reddit.com/r/BASE/comments/1q9syoj/as_base_scales_up_are_community_concerns_scaling/",
+      "subreddit": "BASE",
+      "date": null,
+      "date_confidence": "low",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.6,
+      "why_relevant": "Mentions heavy push on Zora/creator coins and Base App confusion; broader discussion thread.",
+      "subs": {
+        "relevance": 60,
+        "recency": 0,
+        "engagement": 50
+      },
+      "score": 34
     }
   ],
-  "x": [],
-  "web": [
+  "x": [
     {
-      "id": "W6",
-      "title": "Zora Launches Attention Markets on Solana",
-      "url": "https://bitcoinethereumnews.com/tech/zora-launches-attention-markets-on-solana/",
-      "source_domain": "bitcoinethereumnews.com",
-      "snippet": "Jesse Pollak, the creator of Ethereum Layer 2 Base, which is closely integrated with Zora, took to X to share the launch, where he said, \u201cExcited to see zora continue to experiment to grow the onchain pie.",
+      "id": "X10",
+      "text": "i think @base putting most of its focus on @zora , while not giving enough attention to the other teams and projects in marketing, building, users and etc was a mistake we need to acknowledge\n\ni know zora is still on base but it\u2019s no longer gonna have base community support\n\nit\u2019s pretty funny that zora unfollowed base account\neven though base still follows them \n\ni don\u2019t have jesse or mert level of insight on these two completely separate factions, so i\u2019m not gonna get into the details\n\nbut i do",
+      "url": "https://x.com/salimteymouri/status/2024077573030891824",
+      "author_handle": "salimteymouri",
       "date": "2026-02-18",
-      "date_confidence": "med",
-      "relevance": 0.6,
+      "date_confidence": "high",
+      "engagement": {
+        "likes": 3,
+        "replies": 1
+      },
+      "relevance": 0.7,
       "why_relevant": "",
       "subs": {
-        "relevance": 60,
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 100
+      },
+      "score": 86
+    },
+    {
+      "id": "X8",
+      "text": "traders on base (myself included) made it clear multiple times how only leaning on/supporting creator coins could do more harm than good to the ecosystem and relatively the trenches\n\nnot exactly happy with the pivot but it had to happen as an eye opener\n\ngive traders, coins and solid community adequate attention and watch things go maniac.",
+      "url": "https://x.com/christhabuildR/status/2024078856223600758",
+      "author_handle": "christhabuildR",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1
+      },
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 81
+      },
+      "score": 80
+    },
+    {
+      "id": "X3",
+      "text": "@based_elnen @base @zora Same thing I said on FARCASTER yesterday \n\nZora leaving does not mean BASE is dead \n\n@base is here to stay",
+      "url": "https://x.com/Shillawakning/status/2024081292027908457",
+      "author_handle": "Shillawakning",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X2",
+      "text": "@brian_armstrong @hishboy @baseapp @farcaster_xyz @base @zora Onchain where?",
+      "url": "https://x.com/afaiocc/status/2024081537478639628",
+      "author_handle": "afaiocc",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X11",
+      "text": "@brian_armstrong @hishboy @baseapp @farcaster_xyz @base @zora Still wondering why you went on a known scammers stream Brian. @notthreadguy stole many millions via la vape cabal rugs yet you indulge him in a ridiculously lame interview. Get real man. \nAlso base chain is going way of solana but worse,",
+      "url": "https://x.com/HighEndShitcoin/status/2024077381900939677",
+      "author_handle": "HighEndShitcoin",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X12",
+      "text": "@jacek0x @zora @base Did you forget you changed the rules every other week for degen tipping? Even after we had locked our tokens for months and would not have agreed to locking had we known the terms would change. Thats a lot worse to me",
+      "url": "https://x.com/joelle_lb/status/2024077041851650494",
+      "author_handle": "joelle_lb",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X4",
+      "text": "@walsxbt @base I see no justification to why Zora would pull a move like this after the insane support they got from base - I don\u2019t see them having any special success on Solana either ways",
+      "url": "https://x.com/0xmani/status/2024080674571874721",
+      "author_handle": "0xmani",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X6",
+      "text": "Corporate slop mate \u201cif you want to fire someone\u201d - we know your never going anywhere. \n\nReality check: you allowed too many simps to run important projects in your company. 3 Mac mini\u2019s woudl have done a better job than the last 12 months of shit show. \n\nThere are solid investors and builders on base, I speak to many of them daily, but their hanging on by a thread now \ud83e\udea1 \n\nAlso Wilson is a technical guy. That\u2019s fine but bland. You need a monster chad in charge of base, who can rally the C suite ",
+      "url": "https://x.com/jonny_deacon/status/2024080082638438837",
+      "author_handle": "jonny_deacon",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X7",
+      "text": "It\u2019s tried being an NFT marketplace.\n\nThen infra.\n\nThen a Base-native play.\n\nThen creator coins.\n\nNow attention markets and Solana expansion.",
+      "url": "https://x.com/Big_Emmezy/status/2024079066215636997",
+      "author_handle": "Big_Emmezy",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": null,
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
+        "recency": 100,
+        "engagement": 35
+      },
+      "score": 64
+    },
+    {
+      "id": "X9",
+      "text": "@KookCapitalLLC yeah zora moving to solana is unexpected, but I don't think base is going anywhere yet",
+      "url": "https://x.com/ghost_xxxsin/status/2024077627221315925",
+      "author_handle": "ghost_xxxsin",
+      "date": "2026-02-18",
+      "date_confidence": "high",
+      "engagement": {
+        "likes": 1
+      },
+      "relevance": 0.7,
+      "why_relevant": "",
+      "subs": {
+        "relevance": 70,
         "recency": 100,
         "engagement": 0
       },
-      "score": 63
+      "score": 56
     },
     {
-      "id": "W2",
-      "title": "Zora Launches Attention Markets on Solana - \"The Defiant\"",
-      "url": "https://thedefiant.io/news/defi/zora-launches-attention-markets-on-solana",
-      "source_domain": "thedefiant.io",
-      "snippet": "Jesse Pollak, the creator of Ethereum Layer 2 Base, which is closely integrated with Zora, took to X to share the launch, where he said, \u201cExcited to see zora continue to experiment to grow the onchain pie.",
+      "id": "X1",
+      "text": "@walsxbt @base Zero zora",
+      "url": "https://x.com/OnlyZen/status/2024083181532836242",
+      "author_handle": "OnlyZen",
       "date": "2026-02-18",
-      "date_confidence": "med",
-      "relevance": 0.6,
+      "date_confidence": "high",
+      "engagement": {
+        "likes": 1
+      },
+      "relevance": 0.7,
       "why_relevant": "",
       "subs": {
-        "relevance": 60,
+        "relevance": 70,
         "recency": 100,
         "engagement": 0
       },
-      "score": 63
+      "score": 56
     },
     {
-      "id": "W3",
-      "title": "Zora launches 'attention markets' on Solana | The Block",
-      "url": "https://www.theblock.co/post/390249/zora-launches-attention-markets-solana",
-      "source_domain": "theblock.co",
-      "snippet": "Zora is known for experiments bridging crypto and the creator economy, including an early NFT marketplace and more recently Base-based \u201ccreator coins\u201d, which allowed traders to speculate on individual social media posts and creator profiles.",
+      "id": "X5",
+      "text": "lmao, just seeing this. zora has its own L2, but instead of building there, they launched their token on base to keep the farming going. now they\u2019re pivoting to solana with an \"attention market\" to squeeze the last bit of juice out of the degens.\n\nabsolute peak of farming users across chains",
+      "url": "https://x.com/DfiHrn/status/2024080343364473213",
+      "author_handle": "DfiHrn",
       "date": "2026-02-18",
-      "date_confidence": "med",
-      "relevance": 0.6,
+      "date_confidence": "high",
+      "engagement": {
+        "likes": 1
+      },
+      "relevance": 0.7,
       "why_relevant": "",
       "subs": {
-        "relevance": 60,
+        "relevance": 70,
         "recency": 100,
         "engagement": 0
       },
-      "score": 63
-    },
-    {
-      "id": "W1",
-      "title": "Zora moves onto Solana with \u201cattention markets\u201d for trading internet trends",
-      "url": "https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends",
-      "source_domain": "coindesk.com",
-      "snippet": "Zora was among the breakout applications on Coinbase's Layer 2 Base network in the past few years. It launched its ZORA token there in April, and helped roll out Creator Coins tied to Base profiles in July, a push that briefly helped Base overtake ...",
-      "date": "2026-02-18",
-      "date_confidence": "med",
-      "relevance": 0.6,
-      "why_relevant": "",
-      "subs": {
-        "relevance": 60,
-        "recency": 100,
-        "engagement": 0
-      },
-      "score": 63
-    },
-    {
-      "id": "W4",
-      "title": "Zora moves onto Solana with \u201cattention markets\u201d for trading internet trends",
-      "url": "https://bitcoinethereumnews.com/tech/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends/",
-      "source_domain": "bitcoinethereumnews.com",
-      "snippet": "It launched its ZORA token there in April, and helped roll out Creator Coins tied to Base profiles in July, a push that briefly helped Base overtake Solana in daily token creation.",
-      "date": "2026-02-18",
-      "date_confidence": "med",
-      "relevance": 0.6,
-      "why_relevant": "",
-      "subs": {
-        "relevance": 60,
-        "recency": 100,
-        "engagement": 0
-      },
-      "score": 63
-    },
-    {
-      "id": "W5",
-      "title": "Base App Ends Creator Rewards to Concentrate on Trading Assets | WEEX Crypto News",
-      "url": "https://www.weex.com/en-TR/news/detail/base-app-ends-creator-rewards-to-concentrate-on-trading-assets-339484",
-      "source_domain": "weex.com",
-      "snippet": "This transition does not spell the end for Creator Coins, a separate initiative that enables users to craft ERC-20 tokens linked to their profiles and participate on platforms like Zora.",
-      "date": "2026-02-15",
-      "date_confidence": "med",
-      "relevance": 0.6,
-      "why_relevant": "",
-      "subs": {
-        "relevance": 60,
-        "recency": 90,
-        "engagement": 0
-      },
-      "score": 58
-    },
-    {
-      "id": "W8",
-      "title": "Base App Ends Farcaster Talk Feed As It Refocuses On Trading",
-      "url": "https://www.tronweekly.com/base-app-ends-farcaster-talk-feed-as-it/",
-      "source_domain": "tronweekly.com",
-      "snippet": "The shutdown does not impact Creator Coins. Users can generate ERC-20 tokens associated with their Base App profiles. The option is integrated with the decentralized media platform Zora.",
-      "date": "2026-02-11",
-      "date_confidence": "med",
-      "relevance": 0.6,
-      "why_relevant": "",
-      "subs": {
-        "relevance": 60,
-        "recency": 76,
-        "engagement": 0
-      },
-      "score": 52
-    },
-    {
-      "id": "W7",
-      "title": "Vitalik Proposes Curated DAO Model for Creator Coins",
-      "url": "https://bitcoinethereumnews.com/tech/vitalik-proposes-curated-dao-model-for-creator-coins/",
-      "source_domain": "bitcoinethereumnews.com",
-      "snippet": "Ethereum co-founder Vitalik Buterin has pitched a new way to structure creator coins. The focus is not on more content but on better content. Buterin said crypto has spent almost ten years trying to pay creators through tokens. Platforms such as Bihu and Steemit came first. BitClout surged in 2021. Zora followed later.",
-      "date": "2026-02-04",
-      "date_confidence": "med",
-      "relevance": 0.6,
-      "why_relevant": "",
-      "subs": {
-        "relevance": 60,
-        "recency": 53,
-        "engagement": 0
-      },
-      "score": 41
+      "score": 56
     }
   ],
+  "web": [],
   "youtube": [],
   "best_practices": [],
   "prompt_pack": [],
-  "context_snippet_md": "# Context: creator coins base Zora (Last 30 Days)\n\n*Generated: 2026-02-18 | Sources: reddit-web*\n\n## Key Sources\n\n- [Web] Zora Launches Attention Markets on Solana...\n- [Web] Zora Launches Attention Markets on Solana - \"The D...\n- [Web] Zora launches 'attention markets' on Solana | The ...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Reddit] How I would do creator coins\n- [Reddit] Invite | Zora\n\n## Summary\n\n*See full report for best practices, prompt pack, and detailed sources.*\n"
+  "context_snippet_md": "# Context: creator coins base Zora (Last 30 Days)\n\n*Generated: 2026-02-18 | Sources: both*\n\n## Key Sources\n\n- [X] i think @base putting most of its focus on @zora ,...\n- [X] traders on base (myself included) made it clear mu...\n- [X] @based_elnen @base @zora Same thing I said on FARC...\n- [X] @brian_armstrong @hishboy @baseapp @farcaster_xyz ...\n- [X] @brian_armstrong @hishboy @baseapp @farcaster_xyz ...\n- [Reddit] Saw this token. Does anyone know what it does?\n- [Reddit] How to triple your earnings on baseapp\n\n## Summary\n\n*See full report for best practices, prompt pack, and detailed sources.*\n"
 }
