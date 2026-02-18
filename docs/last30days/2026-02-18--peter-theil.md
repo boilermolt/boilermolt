@@ -1,6 +1,6 @@
 # Peter Theil - Last 30 Days Research Report
 
-**Generated:** 2026-02-18T11:40:34.102364+00:00
+**Generated:** 2026-02-18T11:42:21.834136+00:00
 **Date Range:** 2026-01-19 to 2026-02-18
 **Mode:** both
 
@@ -16,8 +16,8 @@
 - **URL:** https://www.reddit.com/r/circled/comments/1r5qd5c/peter_thiel_the_man_who_sells_your_government_spy/
 - **Date:** 2026-02-15 (confidence: high)
 - **Score:** 81/100
-- **Relevance:** Thread focuses directly on Peter Thiel and his role via Palantir and surveillance/government influence.
-- **Engagement:** 1030 points, 350 comments
+- **Relevance:** Thread directly about Peter Thiel, Palantir, and surveillance software.
+- **Engagement:** 1038 points, 350 comments
 
 **Key Insights from Comments:**
 - "Democracy, whatever that means."
@@ -30,239 +30,116 @@ Get bent.
 - This fascist piece of trash needs to be expelled from this country!
 - He’s a weirdo with an illicit habit
 
-### RS1: Their plan to Enslave Mankind permanently we’re not letting it happen 🤡🎪
-
-- **Subreddit:** r/conspiracy
-- **URL:** https://www.reddit.com/r/conspiracy/comments/1r7dqo6/their_plan_to_enslave_mankind_permanently_were/
-- **Date:** 2026-02-17 (confidence: high)
-- **Score:** 65/100
-- **Relevance:** Found in r/conspiracy supplemental search
-
-### RS2: What do we do about Trump?
-
-- **Subreddit:** r/conspiracy
-- **URL:** https://www.reddit.com/r/conspiracy/comments/1qwvulu/what_do_we_do_about_trump/
-- **Date:** 2026-02-05 (confidence: high)
-- **Score:** 55/100
-- **Relevance:** Found in r/conspiracy supplemental search
-
-### RS3: The big conspiracy
-
-- **Subreddit:** r/conspiracy
-- **URL:** https://www.reddit.com/r/conspiracy/comments/1qukin0/the_big_conspiracy/
-- **Date:** 2026-02-03 (confidence: high)
-- **Score:** 53/100
-- **Relevance:** Found in r/conspiracy supplemental search
-
-### RS4: They want to keep us divided while they take over power
-
-- **Subreddit:** r/conspiracy
-- **URL:** https://www.reddit.com/r/conspiracy/comments/1qm24ai/they_want_to_keep_us_divided_while_they_take_over/
-- **Date:** 2026-01-24 (confidence: high)
-- **Score:** 45/100
-- **Relevance:** Found in r/conspiracy supplemental search
-
 ## X Posts
 
-### X33: @QUEENOFDBLUES1
+### X1: @grok
 
-- **URL:** https://x.com/QUEENOFDBLUES1/status/2024085980278350040
+- **URL:** https://x.com/grok/status/2022510877723742616
+- **Date:** 2026-02-14 (confidence: high)
+- **Score:** 83/100
+- **Relevance:** 
+- **Engagement:** 2 likes, 1 reposts
+
+> Rumors suggest Peter Thiel (likely "Peter Theil") is connected to influencer Clavicular (Braden Peters) as a potential major donor, nicknamed "P," who allegedly gave him ~$500K. Clavicular mentioned declining a Thiel party invite and being "blacklisted." Ties via designer Elena Velez, but it's unconfirmed speculation from online sources like Reddit and streams.
+
+### X37: @Tickerwire
+
+- **URL:** https://x.com/Tickerwire/status/2024085587372974533
 - **Date:** 2026-02-18 (confidence: high)
-- **Score:** 86/100
+- **Score:** 74/100
+- **Relevance:** 
+- **Engagement:** 2 likes, ? reposts
+
+> UBS initiates coverage on $KTOS Kratos Defense at Neutral with a $79 target.
+
+Analyst Gavin Parsons notes that while revenue could double by 2030, a "priced for perfection" 86x EBITDA multiple now higher than $PLTR Palantir makes the current valuation a high bar for investors.
+
+### X38: @notreload_ai
+
+- **URL:** https://x.com/notreload_ai/status/2024085584575144321
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 65/100
 - **Relevance:** 
 - **Engagement:** 1 likes, ? reposts
 
-> @LydiaTeeanaJaja A President that promised stable electricity pulled Aso Rock from National Grid to Solar and you feel Peter Obi does not have the right to speak about.
+> $PLTR +2.3% [Mizuho upgrades Palantir stock to Outperform with a $195 price target, calling its growth unmatched in software after a sharp valuation drop early in 2026 makes the risk/reward very appealing.] https://t.co/EBOX8thLjG https://t.co/W3xYO9pDLf
 
-IYA LAYA E 🫵 ONKR 
+### X36: @SherylGapuz08
 
-E no go better for your papa.
-
-Stewpid girl.
-
-Certified 🤡
-
-### X20: @originaltavo
-
-- **URL:** https://x.com/originaltavo/status/2024086136813924648
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 86/100
-- **Relevance:** 
-- **Engagement:** 1 likes, ? reposts
-
-> @PeterArt18 top of the morning, Peter!
-
-### X37: @D0NTREACHF0RME_
-
-- **URL:** https://x.com/D0NTREACHF0RME_/status/2024085941225508935
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 86/100
-- **Relevance:** 
-- **Engagement:** 1 likes, ? reposts
-
-> Dude watching Kaonashi after knowing I saw them irl is so fucking weird like. I saw Peter Rono. I saw Pao. I saw Alex. And Alex stood behind my cousin after Kaonashi was done. What. WHAT.??????????????? I can't believe that. Happened I'M SO FUCKING SCARED
-
-### X7: @fpytel1
-
-- **URL:** https://x.com/fpytel1/status/2024086265323250137
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 86/100
-- **Relevance:** 
-- **Engagement:** 1 likes, ? reposts
-
-> “For me it is good to be near God” – Psalm 73:28
-“You are my Lord; I have no good apart from you” – Psalm 16:2
-“The fruit of the Spirit is goodness” – Galatians 5:22
-“Serve one another, as good stewards of God's varied grace” – 1 Peter 4:10
-
-### X2: @adamgolding
-
-- **URL:** https://x.com/adamgolding/status/2024086294695997772
+- **URL:** https://x.com/SherylGapuz08/status/2024085591726628880
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> "
+> "Palantir is caught in the middle of a brewing fight between Anthropic and the Pentagon" on SmartNews: https://t.co/mD7LKlkow0 #SmartNews
 
-The Most Disturbing Ritual On Epstein Island: Occult Expert | Peter Levenda
+### X11: @Rosa24772115
 
-Adam Cochrane-Golding: The Most Disturbing Ritual On Epstein Island: Occult Expert  https://t.co/bTVzXwDOqL"
-
-### X34: @Keir_StarmerOut
-
-- **URL:** https://x.com/Keir_StarmerOut/status/2024085978529374653
+- **URL:** https://x.com/Rosa24772115/status/2024086417509380138
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> .🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿
+> @ASN86546890 @GrundgesetzEin Na endlich kommt da mal jemand drauf das der Thiel das größte Sicherheitsrisiko ist !
 
-Question: What did Wes Streeting say to Peter Mandelson ?
+### X29: @grok
 
-Answer: The Labour Party has no growth strategy. 😲
-
-Wes Streeting also said that he will be toast at the next Generation Election. 😂😅🤣
-
-I think we all know that... 🤔
-
-🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿 https://t.co/E3sfLvVDO9
-
-### X6: @AdeolaOpe12
-
-- **URL:** https://x.com/AdeolaOpe12/status/2024086266195689857
+- **URL:** https://x.com/grok/status/2024085868139487244
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @BolajiADC Were you not part of them b4? The main reason I don't want Peter Obi to be part of any coalition. Let's face these set of criminals head on whatever the outcome we take it like that
+> @Derbermens61563 @WatcherGuru Based on the latest available SEC filings and reports, Peter Thiel still holds a reduced stake of about 2.547 million shares in Bitmine Immersion Technologies (BMNR) after halving it in November 2025. No further sales reported as of February 2026.
 
-### X15: @NormanCharles66
+### X14: @_i0n
 
-- **URL:** https://x.com/NormanCharles66/status/2024086188793962972
+- **URL:** https://x.com/_i0n/status/2024086301918531591
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @CornyOConnell @wfuv Be kind to your web-footed friends 
-For a duck may be somebody's mother 🦆
+> @JerryLGiles And we don't know what happened at the meeting
 
-Peter &amp; Mary ~ Crazy Mixed-Up Song
+Palantir and Starmer's relationship is still strong, and for all we know, Mandelson and McSweeney could still be advising Starmer
 
-https://t.co/9AhGIyDg51
+### X39: @in_cape
 
-### X30: @IheanyiMbagwu
-
-- **URL:** https://x.com/IheanyiMbagwu/status/2024086020103327991
+- **URL:** https://x.com/in_cape/status/2024085579160236502
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @DeeoneComedian Nobody can force Peter Obi to reveal the party because APC will attack and destroy the Party immediately
+> @MorePerfectUS Netflix, General Electric, Dish Network, Nike, FedEx, T-Mobile and General Motors among ~45 others in the same earnings class as Palantir ALSO paid no ‘federal income tax” in 2025. What’s your point?
 
-### X24: @PovertykillerB
+### X12: @NextGenEV
 
-- **URL:** https://x.com/PovertykillerB/status/2024086103305646148
+- **URL:** https://x.com/NextGenEV/status/2024086393165586689
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @Geoffrey87Lea I see Peter neh but Bradley really traumatised us Kaizer Chiefs fans. What a player!
+> @ReturnOfKappy Palantir is the OCP in Robocop. 
+Surveillance and robotic law enforcement is near. https://t.co/gzEY5ckZSS
 
-### X11: @displayproperly
+### X9: @LucyToynbee
 
-- **URL:** https://x.com/displayproperly/status/2024086223791235073
+- **URL:** https://x.com/LucyToynbee/status/2024086470642831734
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @MannyAngel61761 @MostlyPeaceful He had his dad saved in his phone as “Pedo Peter…
+> @danielgoyal Planting evil  Palantir in the NHS is the pits and will destroy the NHS.
 
-### X32: @JanetOluoch
+### X28: @Smooshkas
 
-- **URL:** https://x.com/JanetOluoch/status/2024085986355921313
+- **URL:** https://x.com/Smooshkas/status/2024085906911568105
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @Peter_b_o NASCOP and LANCET labs confirmations of these HIV AIDS healings is a testimony that heaven is intervening. Prepare your life because the Messiah is coming soon. #JesusEradicatesHIV
+> @greg_price11 And he’s Thiel’s puppet
 
-### X13: @Ceist8
-
-- **URL:** https://x.com/Ceist8/status/2024086198612824242
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @RaySand17710097 @TallPhilosopher @thematrixb0t You blog post got refuted by Peter Hadfield aka Potholer54.
-
-https://t.co/Mk0IXmM9FY
-
-### X3: @jordanburdey
-
-- **URL:** https://x.com/jordanburdey/status/2024086287443951679
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @Rickyyyy66666 @_Don_Ernesto @Antunes1 Oh please Peter is as white as it gets heck he even lived like a nazi in prime germany when he was younger in south fucking Africa
-
-### X14: @jsp_mais_jss
-
-- **URL:** https://x.com/jsp_mais_jss/status/2024086195802640751
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @ThomasR642 @AcideProut @regelegorila @Sidios89 C'est qui "vous"? Tu me connais absolument pas tu crois que tu fais peur a qui là ? Retourne jouer les fiers soldats (ou les victimes comme ça te chante) et arrête de nous péter les couilles avec tes grands discours moralisateurs a 2 balles
-
-### X9: @UPTOWNPPLE
-
-- **URL:** https://x.com/UPTOWNPPLE/status/2024086238207090805
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @abujavenza @idiakosa I wish they were even paying me that 3k. You and Peter Obi and the obidient are not ready yet.
-
-### X10: @Bin_ismail_
-
-- **URL:** https://x.com/Bin_ismail_/status/2024086225879974071
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @charlavic1 @ichidollar do you know that you are more intelligent than Peter obi the olodo?
-
-### X26: @WarrenBonathan
-
-- **URL:** https://x.com/WarrenBonathan/status/2024086084741644687
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-
-> @cornwall_peter @ZackPolanski @cothamboy54 You can stick the minimum wage wherever you want but it will increase unemployment.
-
-### X17: @adamlee2051
+### X18: @adamlee2051
 
 - **URL:** https://x.com/adamlee2051/status/2024086165389824314
 - **Date:** 2026-02-18 (confidence: high)
@@ -271,117 +148,211 @@ https://t.co/Mk0IXmM9FY
 
 > @hippyresident It was my understanding that JD Vance connected with Peter Thiel while at Yale (2010-2013).
 
-### X27: @Peter_Serunya
+### X21: @escctrl
 
-- **URL:** https://x.com/Peter_Serunya/status/2024086068664967420
+- **URL:** https://x.com/escctrl/status/2024086044635697246
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @mirthdot this week tota ne ke didimetse. mme dikgang di dintsi....
+> @jeremycorbyn Why are you against an inefficiently-operated NHS utilising advanced software to help increase its efficiency and improve patient care? Is it because Palantir's software also supports the identification of your Hamas terrorist buddies, resulting in their elimination?
 
-### X29: @big_Pin_Charger
+### X30: @d3p3nds
 
-- **URL:** https://x.com/big_Pin_Charger/status/2024086032518455448
+- **URL:** https://x.com/d3p3nds/status/2024085865648292302
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+- **Engagement:** ? likes, ? reposts
+
+> @nntaleb @grok what does palantir do?
+
+### X7: @grok
+
+- **URL:** https://x.com/grok/status/2024086557699793387
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @nocontextfooty Athletico Madrid is just the Peter Pan of spanish football this season.
+> Christine Maxwell founded Chiliad in 1999, a data analytics firm used by FBI for post-9/11 investigations. It focused on integrating disparate databases, similar to Palantir's later work (founded 2003). No direct link between the companies, but both served intel needs. Earlier Maxwell family firms like InfoPro were in McLean, VA, near CIA, and rebranded after Robert Maxwell's scandals. The "name change" likely refers to that distancing. Sources: Wired, Wikipedia, investigative reports.
 
-### X28: @Peter__A__Bell
+### X1: @dlnews
 
-- **URL:** https://x.com/Peter__A__Bell/status/2024086067725361438
+- **URL:** https://x.com/dlnews/status/2024086711454548477
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @nowayjose187 @GadSaad If you can have laws against the sound of church bells you can have laws against the sound of the muezzin. It would be the same law. If you show me the statute outlawing church bells, I will happily point out how that law applies equally to the call of the muezzin.
+> ETHZilla stock plummets as Peter Thiel exits Ethereum treasury bet, filings show
 
-### X12: @HeyitSendy
+https://t.co/SagEX6rusw
 
-- **URL:** https://x.com/HeyitSendy/status/2024086203386020097
+### X40: @Xaviololo
+
+- **URL:** https://x.com/Xaviololo/status/2024085554703347969
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @vaughanilla_cos Swap peter B for the one from the insomniac games and personally I think you should swap toby for tom or andrew
+> El señor Peter Thiel acaba de vender el 100% de su stake en ETHZilla.  
 
-### X1: @LToth78201
+De tener millones en ETH → 0%  
 
-- **URL:** https://x.com/LToth78201/status/2024086311934611709
+El hombre que huele el mercado antes que nadie se acaba de bajar del tren ETH treasury.  
+
+¿Coincidencia? ¿Rotación de cartera?
+
+Fuente: @Cointelegraph  
+https://t.co/Tbti3Y4JPl
+
+#Crypto #Ethereum #Thiel
+
+### X10: @wobblhash
+
+- **URL:** https://x.com/wobblhash/status/2024086434471121124
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> @zrbvrbHR @koljar @FM_Szijjarto Nem a te dolgod! Igaza van Szijjártó Péter külgazdasági miniszternek! Szerződés mindenkire vonatkozik!
+> Good take. The retail panic sell vs smart money rotation distinction is exactly right. Thiel probably sees ETH's value capture problem, fees going to L2s while L1 needs to justify its market cap. Doesn't mean ETH dies, but the investment thesis is shifting from growth play to infrastructure play.
 
-### X18: @Elke__Kuhn
+### X17: @jcb4Peace
 
-- **URL:** https://x.com/Elke__Kuhn/status/2024086140723113988
+- **URL:** https://x.com/jcb4Peace/status/2024086175963619734
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> Gut auf den Punkt gebracht:
-https://t.co/0BJNayqKa8
+> I don't think it does. The Labour Party is the party of workers. Or was. The idea was that the workers had representation. That's a million miles away from the likes of Palantir buying influence to win government contracts worth a ton.
 
-### X35: @Jane_Doe_JD
+### X26: @slipsilv3r
 
-- **URL:** https://x.com/Jane_Doe_JD/status/2024085960313442785
+- **URL:** https://x.com/slipsilv3r/status/2024085921226752142
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> Mentioning PETER OBI dy bring engagements
+> I love Palantir.
 
-### X25: @Succeed_Quiz
+### X15: @XInvestHunter
 
-- **URL:** https://x.com/Succeed_Quiz/status/2024086099690143766
+- **URL:** https://x.com/XInvestHunter/status/2024086264069161024
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> One decision to try something different.
-That was the turning point.
-Sometimes the difference between failure and success is simply using the right practice platform.
-If you were Peter… would you keep guessing or start practicing smart?
-Tag a friend preparination exam.
+> It's official ... Palantir is relocating its headquarters from Denver to Miami, second major move in 6 years. Friendly ultra wealthy tax environment. in 2003, left Palo Alto for Denver in 2020. Billionaires are attempting to build a new hub for innovation outside Silicon Valley. https://t.co/MXguy4QfER
 
-### X36: @halfeatenmind
+### X6: @GregMooreNH
 
-- **URL:** https://x.com/halfeatenmind/status/2024085943875948835
+- **URL:** https://x.com/GregMooreNH/status/2024086565039845438
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> OpenClaw creator Peter Steinberger joins OpenAI https://t.co/GuNLwGVrLD via @techcrunch
+> Leftist protesters succeed in getting CO’s largest company to move from a blue state to a red one.
 
-### X5: @Mobola_A_Star
+So much winning for them!
 
-- **URL:** https://x.com/Mobola_A_Star/status/2024086274563342826
+https://t.co/HMAgVUAEmE
+
+### X22: @pat11060
+
+- **URL:** https://x.com/pat11060/status/2024086017108578630
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> These are Peter Obi's trademarks.
+> Mcsweeney Starmer and Labour together conspired to create fake news. 
+Supporting Mandelson in the promotion of Palantir which is far from a minor crime. 
+Palantir should be removed from the public services list of companies and a independent investigation carried out🤔⚖️🌎🏴󠁧󠁢󠁳󠁣󠁴󠁿☮️ https://t.co/ty0acBAI8u
 
-He goes about with cameramen to the least places you'd expect just to donate 50K, but ask for Peter Obi's video recordings of him commissioning completed projects as Anambra state governor, you'd pass through a needle-eye to find them.
+### X19: @grok
 
-A man who thrives in vainglory and loudness, with no substance and panache.
-
-### X22: @bulalathegreat
-
-- **URL:** https://x.com/bulalathegreat/status/2024086120212881874
+- **URL:** https://x.com/grok/status/2024086111434236073
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> We need to know who Peter Obi’s mother is. She must be really dumb!
+> Palantir Technologies builds AI and big data software for real-time analysis and decision-making. Their platforms like Gotham (for defense/intel), Foundry (for enterprises), and AIP automate operations in sectors like government, defense, energy, healthcare, and manufacturing.
 
-### X31: @PASCALNAJAyxg
+They've faced controversies over use in surveillance, military ops (e.g., in Ukraine, Israel), and privacy concerns, with critics calling it enabling targeted actions. CEO Alex Karp has noted their tools can "scare or kil
 
-- **URL:** https://x.com/PASCALNAJAyxg/status/2024085991401672716
+### X5: @YellowMedia_HQ
+
+- **URL:** https://x.com/YellowMedia_HQ/status/2024086615778291838
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> Peter Thiel-Backed Fund Exits ETHZilla as Ethereum Slides
+
+https://t.co/IAWB8ypK3R
+
+### X31: @grok
+
+- **URL:** https://x.com/grok/status/2024085831653220561
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> The quote from Palantir CEO Alex Karp appears in a recent earnings call, referring to their software's role in defense and counter-terrorism for Western allies. It highlights the company's involvement in national security, which includes operations that can lead to lethal outcomes. Ethical views on this vary widely—some see it as vital protection, others as problematic. What's your take?
+
+### X13: @wobblhash
+
+- **URL:** https://x.com/wobblhash/status/2024086324282544424
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> The timing matters more than the exit itself. Thiel exiting ETH right as the SEC is warming up to spot ETH ETFs is curious. Either he sees something regulatory we don't, or he's rotating into something he thinks has better risk-adjusted returns. Given his track record, probably worth watching where that capital flows next.
+
+### X2: @grok
+
+- **URL:** https://x.com/grok/status/2024086696237707759
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> The video is genuine footage from Palantir's Q4 earnings call. Alex Karp said, in context of national security: "Palantir is here to disrupt when it's necessary to scare enemies, on occasion kill them." Multiple sources, including transcripts and reports, confirm it's authentic, not an AI spoof.
+
+### X25: @TomboyToken
+
+- **URL:** https://x.com/TomboyToken/status/2024085949903225113
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> Thiel dumping ETHZilla...talk about a rug pull even venture capitalists can't dodge. 😂
+
+### X24: @johnmorganFL
+
+- **URL:** https://x.com/johnmorganFL/status/2024085968500781090
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> Trading expert sets date when Palantir stock will crash to $43
+
+https://t.co/Sn8a1DatWT
+
+### X3: @RafaMorgan64
+
+- **URL:** https://x.com/RafaMorgan64/status/2024086666139304357
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 64/100
+- **Relevance:** 
+
+> WHILE YOU WERE SLEEPING....some more.
+
+The platform owner, presumably following Palantir's lead, recommends that you enter your medical data into GROK for "a second opinion."
+All the alarm bells went off, and a user cleverly asked Grok about it... Guess the answer!!!...
+
+DON'T EVEN THINK ABOUT ENTERING YOUR PERSONAL MEDICAL DATA ON ANY PLATFORM, ESPECIALLY NOT ON X, BECAUSE, ACCORDING TO GROK, IT DOESN'T HAVE THE NECESSARY QUALIFICATIONS NOR IS IT A LEGAL ORGANIZATION TO ISSUE MEDICAL DIAGNOSES,
+
+### X35: @pascalnajadiW
+
+- **URL:** https://x.com/pascalnajadiW/status/2024085698127564914
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
@@ -393,57 +364,59 @@ EXPOSURE.
 
 🔴LAST WARNING ❗️
 
-WE ARE HERE TO REVEAL THE TRUTH. https://t.co/OU7ocIwmWF
+WE ARE HERE TO REVEAL THE TRUTH. https://t.co/5NC9MjqE0B
 
-### X19: @PETER_ACCOUNT_
+### X27: @VeracitySteven
 
-- **URL:** https://x.com/PETER_ACCOUNT_/status/2024086137183387982
+- **URL:** https://x.com/VeracitySteven/status/2024085915187241036
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> 집에 도착했으니… 명조를 할 차례다.
+> Yet we always have enough money for Israel or Ukraine, just never enough for Americans. There's always money for Palantir or Lockheed Martin but never enough for our schools or hospitals. We have become the barbaric jungle, decaying month by month while our leaders loot the system more than any African warlord ever did.
 
-### X21: @Market21Labs
+### X32: @ObedBenYosef
 
-- **URL:** https://x.com/Market21Labs/status/2024086126013903202
-- **Date:** 2026-02-18 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** 
-- **Engagement:** ? likes, ? reposts
-
-> 🏦 Institutional Activity (2/6)
-
-• 🇦🇪 Mubadala & Al Warda increased holdings in BlackRock’s iShares Bitcoin ETF (IBIT), surpassing $1B combined exposure
-• 📊 BlackRock and Coinbase plan to retain 18% of staking rewards in the proposed iShares Staked Ethereum ETF
-• 🏛️ Peter Thiel’s Founders Fund exited its ETHZilla position by end-2025
-• 💼 Dragonfly closed a $650M crypto venture fund
-• 🎓 Harvard Management reduced Bitcoin ETF exposure ~21% and added ~$86.8M in Ethereum ETF exposure
-#Institutions #B
-
-### X4: @SocTolkien
-
-- **URL:** https://x.com/SocTolkien/status/2024086278921195549
+- **URL:** https://x.com/ObedBenYosef/status/2024085800804139071
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 64/100
 - **Relevance:** 
 
-> 📢 Rescatamos para la web este artículo publicado en el nº93 de nuestra revista oficial sobre la adaptación del aspecto físico de los enanos en la trilogía 'El Hobbit' dirigida por Peter Jackson
+> 📰 𝐎𝐁𝐄𝐃™ | 𝐈𝐍𝐒𝐈𝐃𝐄 𝐖𝐀𝐋𝐋 𝐒𝐓𝐑𝐄𝐄𝐓🔎
+🎢 #PRE-MARKET | Febrero 18, 2026
 
-📝 Amaya Fernández Menicucci
+🟢𝗚𝗮𝗽𝗽𝗶𝗻𝗴 𝗨𝗽
+★ Palantir $PLTR +2,31%
+★ Petróleo $USO +1,94%
+★ Nvidia $NVDA +1,81%
+★ Amazon $AMZN +1,58%
 
-https://t.co/oZ6o22KlK2 https://t.co/6evZdl6sBN
+🔴𝗚𝗮𝗽𝗽𝗶𝗻𝗴 𝗗𝗼𝘄𝗻
+☆ Advanced Micro Devices Inc $AMD -1,78%
 
-### X16: @ScotExpress
+---
+ᴏʙᴇᴅ | ɪᴡꜱ ᴅᴇꜱᴋ
 
-- **URL:** https://x.com/ScotExpress/status/2024086183752429885
+### X8: @kernowkid1
+
+- **URL:** https://x.com/kernowkid1/status/2024086554700820806
 - **Date:** 2026-02-18 (confidence: high)
 - **Score:** 56/100
 - **Relevance:** 
 - **Engagement:** ? likes, 1 reposts
 
-> Dorothy Bain must 'come clean' over why she tipped John Swinney off about Peter Murrell charges.
-https://t.co/IKsZWwIJqb
+> As always Corbyn protecting the people, asking the question others don't, what was Starmer as PM, Mandelson founder of Palantir, doing in unrecorded talks in US re: NHS contract that was awarded without competition to Palantir ???!!!!!!!
+
+### X4: @brikilli
+
+- **URL:** https://x.com/brikilli/status/2024086632429736124
+- **Date:** 2026-02-18 (confidence: high)
+- **Score:** 56/100
+- **Relevance:** 
+- **Engagement:** ? likes, 1 reposts
+
+> Das braucht es gar nicht mehr, wenn unser #SauerlandTrump #Merz mit seinem WadlBeißer #Dobrindt flächendeckend #Palantir installiert hat!
+Diese ständigen Pöbeleien gegen die Bevölkerung sind doch nicht zufällig.
 
 ## Best Practices
 
