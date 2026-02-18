@@ -1,6 +1,6 @@
 # creator coins base Zora - Last 30 Days Research Report
 
-**Generated:** 2026-02-18T11:22:19.694562+00:00
+**Generated:** 2026-02-18T11:23:24.344236+00:00
 **Date Range:** 2026-01-19 to 2026-02-18
 **Mode:** reddit-web
 
@@ -10,139 +10,95 @@
 
 ## Reddit Threads
 
-### RS1: Did Zora just backstab Base?
-
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1r7c9ls/did_zora_just_backstab_base/
-- **Date:** 2026-02-17 (confidence: high)
-- **Score:** 65/100
-- **Relevance:** Found in r/BASE supplemental search
-
-### RS2: Understanding x402: Why It Exists and How It Works
-
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1r70cki/understanding_x402_why_it_exists_and_how_it_works/
-- **Date:** 2026-02-17 (confidence: high)
-- **Score:** 65/100
-- **Relevance:** Found in r/BASE supplemental search
-
-### RS3: Farcaster vs Base App: A Quick Comparison in 2026  From Social Integration to Separate Paths
-
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1r6ekkn/farcaster_vs_base_app_a_quick_comparison_in_2026/
-- **Date:** 2026-02-16 (confidence: high)
-- **Score:** 64/100
-- **Relevance:** Found in r/BASE supplemental search
-
-### RS5: Current Top Tokens & Memecoins on Base Chain by Market Cap (Feb 2026) What's Winning Right Now?
-
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1r5hj71/current_top_tokens_memecoins_on_base_chain_by/
-- **Date:** 2026-02-15 (confidence: high)
-- **Score:** 63/100
-- **Relevance:** Found in r/BASE supplemental search
-
-### RS16: I researched the relationship between energy prices and mining costs. I wondered what you guys think about the viability of crypto when miners transition to AI services for bigtech as mining becomes too expensive.
-
-- **Subreddit:** r/CryptoCurrency
-- **URL:** https://www.reddit.com/r/CryptoCurrency/comments/1r5byos/i_researched_the_relationship_between_energy/
-- **Date:** 2026-02-15 (confidence: high)
-- **Score:** 63/100
-- **Relevance:** Found in r/CryptoCurrency supplemental search
-
-### RS4: Sunday at Base - February 15, 2026
-
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1r5k2b1/sunday_at_base_february_15_2026/
-- **Date:** 2026-02-15 (confidence: high)
-- **Score:** 63/100
-- **Relevance:** Found in r/BASE supplemental search
-
-### RS17: Anyone remembers 2013 and the likes? Simpler times... I was digging through old posts and found something.
-
-- **Subreddit:** r/CryptoCurrency
-- **URL:** https://www.reddit.com/r/CryptoCurrency/comments/1r4yzor/anyone_remembers_2013_and_the_likes_simpler_times/
-- **Date:** 2026-02-14 (confidence: high)
-- **Score:** 62/100
-- **Relevance:** Found in r/CryptoCurrency supplemental search
-
-### RS20: February Crash Wiped $10 Billion+ From BTC Treasury Companies. Is The "Bitcoin On Balance Sheet" Strategy Broken?
-
-- **Subreddit:** r/CryptoCurrency
-- **URL:** https://www.reddit.com/r/CryptoCurrency/comments/1r3cvqb/february_crash_wiped_10_billion_from_btc_treasury/
-- **Date:** 2026-02-13 (confidence: high)
-- **Score:** 62/100
-- **Relevance:** Found in r/CryptoCurrency supplemental search
-
-### RS18: Literally a newb at crypto..help me😅🤣
-
-- **Subreddit:** r/CryptoCurrency
-- **URL:** https://www.reddit.com/r/CryptoCurrency/comments/1r44bwx/literally_a_newb_at_cryptohelp_me/
-- **Date:** 2026-02-13 (confidence: high)
-- **Score:** 62/100
-- **Relevance:** Found in r/CryptoCurrency supplemental search
-
-### RS19: Vitalik Buterin Openly Criticizes USDC, Favors Algo Stablecoins, Do you trust Algo Stablecoins?
-
-- **Subreddit:** r/CryptoCurrency
-- **URL:** https://www.reddit.com/r/CryptoCurrency/comments/1r3tbt4/vitalik_buterin_openly_criticizes_usdc_favors/
-- **Date:** 2026-02-13 (confidence: high)
-- **Score:** 62/100
-- **Relevance:** Found in r/CryptoCurrency supplemental search
-
-### RS11: Openfabric AI ($OFN): Deep Investigation into a Classic Slow Rug Pull – Hack, Migration, Delistings, and the Vanished Team Page
-
-- **Subreddit:** r/CryptoScams
-- **URL:** https://www.reddit.com/r/CryptoScams/comments/1r30lt3/openfabric_ai_ofn_deep_investigation_into_a/
-- **Date:** 2026-02-12 (confidence: high)
-- **Score:** 61/100
-- **Relevance:** Found in r/CryptoScams supplemental search
-
-### RS12: FRK Group, Freckie Capital, Bosonic are SCAMS
-
-- **Subreddit:** r/CryptoScams
-- **URL:** https://www.reddit.com/r/CryptoScams/comments/1qwc9ix/frk_group_freckie_capital_bosonic_are_scams/
-- **Date:** 2026-02-05 (confidence: high)
-- **Score:** 55/100
-- **Relevance:** Found in r/CryptoScams supplemental search
-
-### R18: Saw this token. Does anyone know what it does?
+### R14: Saw this token. Does anyone know what it does?
 
 - **Subreddit:** r/BASE
 - **URL:** https://www.reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/
 - **Date:** 2026-02-01 (confidence: high)
-- **Score:** 55/100
-- **Relevance:** Thread about tokens in Base wallet; comments note creator coins and how to verify creator/contract—relevant to creator-coin ecosystem.
-- **Engagement:** 11 points, 6 comments
+- **Score:** 50/100
+- **Relevance:** Discussion about tokens appearing in Base context; commenters note creator coins and due diligence (relevant to Base creator coin ecosystem tied to Zora).
 
-**Key Insights from Comments:**
-- Having a creator coin in a Base wallet is normal and anyone can choose the name of their token however they want.
-- You seein this on base app right??? 
-I would suggest don't jump into buying something till u have info bout this.
+## Web Results
 
-### RS13: base-nft (scam)
+### W6: Zora Launches Attention Markets on Solana
 
-- **Subreddit:** r/CryptoScams
-- **URL:** https://www.reddit.com/r/CryptoScams/comments/1ql8se2/basenft_scam/
-- **Date:** 2026-01-24 (confidence: high)
-- **Score:** 45/100
-- **Relevance:** Found in r/CryptoScams supplemental search
+- **Source:** bitcoinethereumnews.com
+- **URL:** https://bitcoinethereumnews.com/tech/zora-launches-attention-markets-on-solana/
+- **Date:** 2026-02-18 (confidence: med)
+- **Score:** 63/100
+- **Relevance:** 
 
-### RS14: Offered “insider access” to a Solana memecoin pre-launch. Scam or legit?
+> Jesse Pollak, the creator of Ethereum Layer 2 Base, which is closely integrated with Zora, took to X to share the launch, where he said, “Excited to see zora continue to experiment to grow the onchain pie.
 
-- **Subreddit:** r/CryptoScams
-- **URL:** https://www.reddit.com/r/CryptoScams/comments/1qis5o6/offered_insider_access_to_a_solana_memecoin/
-- **Date:** 2026-01-21 (confidence: high)
-- **Score:** 42/100
-- **Relevance:** Found in r/CryptoScams supplemental search
+### W2: Zora Launches Attention Markets on Solana - "The Defiant"
 
-### RS15: TPBit
+- **Source:** thedefiant.io
+- **URL:** https://thedefiant.io/news/defi/zora-launches-attention-markets-on-solana
+- **Date:** 2026-02-18 (confidence: med)
+- **Score:** 63/100
+- **Relevance:** 
 
-- **Subreddit:** r/CryptoScams
-- **URL:** https://www.reddit.com/r/CryptoScams/comments/1qikkhx/tpbit/
-- **Date:** 2026-01-21 (confidence: high)
-- **Score:** 42/100
-- **Relevance:** Found in r/CryptoScams supplemental search
+> Jesse Pollak, the creator of Ethereum Layer 2 Base, which is closely integrated with Zora, took to X to share the launch, where he said, “Excited to see zora continue to experiment to grow the onchain pie.
+
+### W3: Zora launches 'attention markets' on Solana | The Block
+
+- **Source:** theblock.co
+- **URL:** https://www.theblock.co/post/390249/zora-launches-attention-markets-solana
+- **Date:** 2026-02-18 (confidence: med)
+- **Score:** 63/100
+- **Relevance:** 
+
+> Zora is known for experiments bridging crypto and the creator economy, including an early NFT marketplace and more recently Base-based “creator coins”, which allowed traders to speculate on individual social media posts and creator profiles.
+
+### W1: Zora moves onto Solana with “attention markets” for trading internet trends
+
+- **Source:** coindesk.com
+- **URL:** https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends
+- **Date:** 2026-02-18 (confidence: med)
+- **Score:** 63/100
+- **Relevance:** 
+
+> Zora was among the breakout applications on Coinbase's Layer 2 Base network in the past few years. It launched its ZORA token there in April, and helped roll out Creator Coins tied to Base profiles in July, a push that briefly helped Base overtake ...
+
+### W4: Zora moves onto Solana with “attention markets” for trading internet trends
+
+- **Source:** bitcoinethereumnews.com
+- **URL:** https://bitcoinethereumnews.com/tech/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends/
+- **Date:** 2026-02-18 (confidence: med)
+- **Score:** 63/100
+- **Relevance:** 
+
+> It launched its ZORA token there in April, and helped roll out Creator Coins tied to Base profiles in July, a push that briefly helped Base overtake Solana in daily token creation.
+
+### W5: Base App Ends Creator Rewards to Concentrate on Trading Assets | WEEX Crypto News
+
+- **Source:** weex.com
+- **URL:** https://www.weex.com/en-TR/news/detail/base-app-ends-creator-rewards-to-concentrate-on-trading-assets-339484
+- **Date:** 2026-02-15 (confidence: med)
+- **Score:** 58/100
+- **Relevance:** 
+
+> This transition does not spell the end for Creator Coins, a separate initiative that enables users to craft ERC-20 tokens linked to their profiles and participate on platforms like Zora.
+
+### W8: Base App Ends Farcaster Talk Feed As It Refocuses On Trading
+
+- **Source:** tronweekly.com
+- **URL:** https://www.tronweekly.com/base-app-ends-farcaster-talk-feed-as-it/
+- **Date:** 2026-02-11 (confidence: med)
+- **Score:** 52/100
+- **Relevance:** 
+
+> The shutdown does not impact Creator Coins. Users can generate ERC-20 tokens associated with their Base App profiles. The option is integrated with the decentralized media platform Zora.
+
+### W7: Vitalik Proposes Curated DAO Model for Creator Coins
+
+- **Source:** bitcoinethereumnews.com
+- **URL:** https://bitcoinethereumnews.com/tech/vitalik-proposes-curated-dao-model-for-creator-coins/
+- **Date:** 2026-02-04 (confidence: med)
+- **Score:** 41/100
+- **Relevance:** 
+
+> Ethereum co-founder Vitalik Buterin has pitched a new way to structure creator coins. The focus is not on more content but on better content. Buterin said crypto has spent almost ten years trying to pay creators through tokens. Platforms such as Bihu and Steemit came first. BitClout surged in 2021. Zora followed later.
 
 ## Best Practices
 
