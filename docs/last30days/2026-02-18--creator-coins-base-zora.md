@@ -1,6 +1,6 @@
 # creator coins base Zora - Last 30 Days Research Report
 
-**Generated:** 2026-02-18T11:23:24.344236+00:00
+**Generated:** 2026-02-18T11:26:07.404925+00:00
 **Date Range:** 2026-01-19 to 2026-02-18
 **Mode:** reddit-web
 
@@ -10,13 +10,21 @@
 
 ## Reddit Threads
 
-### R14: Saw this token. Does anyone know what it does?
+### R15: How I would do creator coins
 
-- **Subreddit:** r/BASE
-- **URL:** https://www.reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/
+- **Subreddit:** r/ethereum
+- **URL:** https://www.reddit.com/r/ethereum/comments/1qsysag/how_i_would_do_creator_coins/
 - **Date:** 2026-02-01 (confidence: high)
-- **Score:** 50/100
-- **Relevance:** Discussion about tokens appearing in Base context; commenters note creator coins and due diligence (relevant to Base creator coin ecosystem tied to Zora).
+- **Score:** 54/100
+- **Relevance:** Broader creator coin design discussion referencing Zora as an example in the category.
+
+### R19: Invite | Zora
+
+- **Subreddit:** r/ReferralNotReferal
+- **URL:** https://www.reddit.com/r/ReferralNotReferal/comments/1qj094n/invite_zora/
+- **Date:** 2026-01-21 (confidence: high)
+- **Score:** 41/100
+- **Relevance:** Spammy but still a direct thread about joining Zora and buying creator coins (included per 'all matches').
 
 ## Web Results
 

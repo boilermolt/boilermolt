@@ -4,29 +4,48 @@
     "from": "2026-01-19",
     "to": "2026-02-18"
   },
-  "generated_at": "2026-02-18T11:23:24.344236+00:00",
+  "generated_at": "2026-02-18T11:26:07.404925+00:00",
   "mode": "reddit-web",
   "openai_model_used": "gpt-5.2",
   "xai_model_used": null,
   "reddit": [
     {
-      "id": "R14",
-      "title": "Saw this token. Does anyone know what it does?",
-      "url": "https://www.reddit.com/r/BASE/comments/1qssw2j/saw_this_token_does_anyone_know_what_it_does/",
-      "subreddit": "BASE",
+      "id": "R15",
+      "title": "How I would do creator coins",
+      "url": "https://www.reddit.com/r/ethereum/comments/1qsysag/how_i_would_do_creator_coins/",
+      "subreddit": "ethereum",
       "date": "2026-02-01",
       "date_confidence": "high",
       "engagement": null,
       "top_comments": [],
       "comment_insights": [],
-      "relevance": 0.62,
-      "why_relevant": "Discussion about tokens appearing in Base context; commenters note creator coins and due diligence (relevant to Base creator coin ecosystem tied to Zora).",
+      "relevance": 0.7,
+      "why_relevant": "Broader creator coin design discussion referencing Zora as an example in the category.",
       "subs": {
-        "relevance": 62,
+        "relevance": 70,
         "recency": 43,
         "engagement": 50
       },
-      "score": 50
+      "score": 54
+    },
+    {
+      "id": "R19",
+      "title": "Invite | Zora",
+      "url": "https://www.reddit.com/r/ReferralNotReferal/comments/1qj094n/invite_zora/",
+      "subreddit": "ReferralNotReferal",
+      "date": "2026-01-21",
+      "date_confidence": "high",
+      "engagement": null,
+      "top_comments": [],
+      "comment_insights": [],
+      "relevance": 0.62,
+      "why_relevant": "Spammy but still a direct thread about joining Zora and buying creator coins (included per 'all matches').",
+      "subs": {
+        "relevance": 62,
+        "recency": 6,
+        "engagement": 50
+      },
+      "score": 41
     }
   ],
   "x": [],
@@ -171,5 +190,5 @@
   "youtube": [],
   "best_practices": [],
   "prompt_pack": [],
-  "context_snippet_md": "# Context: creator coins base Zora (Last 30 Days)\n\n*Generated: 2026-02-18 | Sources: reddit-web*\n\n## Key Sources\n\n- [Web] Zora Launches Attention Markets on Solana...\n- [Web] Zora Launches Attention Markets on Solana - \"The D...\n- [Web] Zora launches 'attention markets' on Solana | The ...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Reddit] Saw this token. Does anyone know what it does?\n\n## Summary\n\n*See full report for best practices, prompt pack, and detailed sources.*\n"
+  "context_snippet_md": "# Context: creator coins base Zora (Last 30 Days)\n\n*Generated: 2026-02-18 | Sources: reddit-web*\n\n## Key Sources\n\n- [Web] Zora Launches Attention Markets on Solana...\n- [Web] Zora Launches Attention Markets on Solana - \"The D...\n- [Web] Zora launches 'attention markets' on Solana | The ...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Web] Zora moves onto Solana with \u201cattention markets\u201d fo...\n- [Reddit] How I would do creator coins\n- [Reddit] Invite | Zora\n\n## Summary\n\n*See full report for best practices, prompt pack, and detailed sources.*\n"
 }

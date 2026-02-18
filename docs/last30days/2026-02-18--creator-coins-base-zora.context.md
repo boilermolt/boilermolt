@@ -9,7 +9,8 @@
 - [Web] Zora launches 'attention markets' on Solana | The ...
 - [Web] Zora moves onto Solana with “attention markets” fo...
 - [Web] Zora moves onto Solana with “attention markets” fo...
-- [Reddit] Saw this token. Does anyone know what it does?
+- [Reddit] How I would do creator coins
+- [Reddit] Invite | Zora
 
 ## Summary
 
