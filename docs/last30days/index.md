@@ -1,6 +1,7 @@
 # last30days reports
 
 Latest reports (newest first):
+- 2026-02-18 — [crypto-cycles (deep research)](./2026-02-18--crypto-cycles.md)
 - 2026-02-18 — [network-state (deep research)](./network-state-2026-02-18.md)
 - 2026-02-18 — [elon-musk (deep research)](./elon-musk-2026-02-18.md)
 - 2026-02-18 — [farcaster (deep research)](./farcaster-2026-02-18.md)
