@@ -28,6 +28,11 @@ Examples:
 Preferred phrasing:
 - **`add task: <content> due <due-string> @<Label>`**
 
+Idea capture (fast):
+- **`idea: <one-line idea>`**
+  - Creates a task in **Claw Tasks** with label **`@idea`**.
+  - (Works the same whether sent via Telegram or command email.)
+
 Notes:
 - Default project: **Claw Tasks**
 - Labels can be created on-demand (if you say `@Overdue`, it will be created if missing).
@@ -35,6 +40,7 @@ Notes:
 Examples:
 - `add task: file taxes due 2026-04-30 @Admin`
 - `add task: call dentist due next Tue @Health`
+- `idea: defense theme — build a $500 sleeve (CAE/MDA/PNG) and add weekly when cash reserve hits $50`
 
 ---
 
