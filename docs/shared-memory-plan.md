@@ -133,5 +133,167 @@ Choose one bridge from Nextcloud → VPS local:
 
 ---
 
+# RUNBOOK (handoff-proof)
+
+This section is designed so a new agent can implement the plan with minimal additional context.
+
+## Target outcome
+- VPS has local shared config at: `/opt/openclaw-shared/`
+- Trading bot reads shared config using: `APB_SHARED_DIR=/opt/openclaw-shared`
+- Optional: a WebDAV pull job updates the VPS local files safely.
+
+## 0) Safety rules (non-negotiable)
+- **Never** store secrets (private keys, API keys, cookies, OAuth tokens) in shared files.
+- Treat these files as **configuration**, not an append-only diary.
+- Changes that increase risk require explicit human confirmation.
+
+## 1) Create the VPS folder (one-time)
+Run on the VPS:
+
+```bash
+sudo mkdir -p /opt/openclaw-shared
+sudo chown -R boilerrat:boilerrat /opt/openclaw-shared
+sudo chmod 750 /opt/openclaw-shared
+```
+
+## 2) Create initial shared files (templates)
+
+### `/opt/openclaw-shared/RISK_POLICY.json`
+```json
+{
+  "version": 1,
+  "updated_at": "2026-02-25",
+  "paper_first": true,
+  "execution_loop_requires_llm": false,
+
+  "max_leverage": 2.0,
+  "max_deployed_pct": 0.75,
+  "daily_kill_switch_pct": -0.10,
+
+  "risk_pct": 0.01,
+  "min_risk_usd": 10.0,
+  "max_risk_usd": 50.0,
+  "min_collateral_usd": 20.0,
+
+  "notes": "v1 shared trading ops policy (paper-first; bounded risk)"
+}
+```
+
+### `/opt/openclaw-shared/PARAMS.json`
+```json
+{
+  "version": 1,
+  "updated_at": "2026-02-25",
+  "pair": "ETH/USD",
+  "tf_min": 15,
+
+  "strategy": {
+    "mode": "combo",
+    "trend_fast": 20,
+    "trend_slow": 50,
+    "mr_window": 50,
+    "mr_entry_z": 1.5,
+    "atr_n": 14,
+    "atr_mult": 2.0,
+    "tp_rr": 2.0
+  },
+
+  "paper": {
+    "slippage": {
+      "model": "vol_based",
+      "base_bps": 2.0,
+      "k_atr": 15.0
+    }
+  }
+}
+```
+
+### `/opt/openclaw-shared/DECISIONS.md`
+```md
+# Shared Decisions (Trading Ops)
+
+- 2026-02-25: Shared memory design chosen: VPS local files as runtime source of truth; optional Nextcloud/WebDAV for updates.
+- 2026-02-25: Risk floor updated for small accounts: min_risk_usd=10, min_collateral_usd=20.
+```
+
+### `/opt/openclaw-shared/FACTS.md`
+```md
+# Shared Facts (Trading Ops)
+
+- Repo: https://github.com/boilermolt/avantis-paper-bot
+- Trading mode: paper-first; go-live requires explicit approval.
+```
+
+## 3) Optional: WebDAV pull updater (Nextcloud → VPS)
+
+### a) Create a read-only Nextcloud app password
+- Create an app password in Nextcloud.
+- Store it as an environment variable on the VPS (do **not** commit it):
+  - `NEXTCLOUD_USER`
+  - `NEXTCLOUD_APP_PASSWORD`
+  - `NEXTCLOUD_WEBDAV_BASE` (ends with `/OpenClawShared/`)
+
+### b) Example pull script (atomic + validated)
+Create `/opt/openclaw-shared/webdav_pull.sh`:
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+: "${NEXTCLOUD_WEBDAV_BASE:?}"
+: "${NEXTCLOUD_USER:?}"
+: "${NEXTCLOUD_APP_PASSWORD:?}"
+
+DST="/opt/openclaw-shared"
+TMP="${DST}/.tmp"
+mkdir -p "$TMP"
+
+fetch() {
+  local name="$1"
+  curl -fsS -u "${NEXTCLOUD_USER}:${NEXTCLOUD_APP_PASSWORD}" \
+    "${NEXTCLOUD_WEBDAV_BASE}${name}" -o "${TMP}/${name}"
+}
+
+validate_json() {
+  local file="$1"
+  node -e "JSON.parse(require('fs').readFileSync('${file}','utf8'));" >/dev/null
+}
+
+fetch "RISK_POLICY.json"
+fetch "PARAMS.json"
+
+validate_json "${TMP}/RISK_POLICY.json"
+validate_json "${TMP}/PARAMS.json"
+
+mv "${TMP}/RISK_POLICY.json" "${DST}/RISK_POLICY.json"
+mv "${TMP}/PARAMS.json" "${DST}/PARAMS.json"
+
+# Optional pull of markdown (non-critical)
+for f in DECISIONS.md FACTS.md; do
+  if curl -fsS -u "${NEXTCLOUD_USER}:${NEXTCLOUD_APP_PASSWORD}" "${NEXTCLOUD_WEBDAV_BASE}${f}" -o "${TMP}/${f}"; then
+    mv "${TMP}/${f}" "${DST}/${f}"
+  fi
+done
+```
+
+Then:
+```bash
+sudo chmod +x /opt/openclaw-shared/webdav_pull.sh
+```
+
+### c) Cron (every 5 minutes)
+```bash
+crontab -e
+*/5 * * * * /opt/openclaw-shared/webdav_pull.sh >/tmp/webdav_pull.log 2>&1
+```
+
+## 4) Wire into the trading bot
+In `boilermolt/avantis-paper-bot`, implement:
+- `APB_SHARED_DIR=/opt/openclaw-shared`
+- load/merge `RISK_POLICY.json` + `PARAMS.json`
+- if JSON invalid/unavailable: continue using last-known-good config
+
+---
+
 If you want this turned into code immediately:
-- I can generate the initial `/opt/openclaw-shared/` file set + add a loader module in `avantis-paper-bot` that merges shared config over defaults, then push to GitHub.
+- Generate the initial `/opt/openclaw-shared/` file set on the VPS and add a loader module in `avantis-paper-bot` that merges shared config over defaults.
