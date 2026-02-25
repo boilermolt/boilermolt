@@ -1,0 +1,59 @@
+# Minimal metadata catalog for RAG ingestion
+# Add local file paths if/when you download PDFs into the folders.
+# Fields: id, title, author, year, domain, source_url, license
+
+- id: fpp3
+  title: "Forecasting: Principles and Practice (3e)"
+  author: "Rob J Hyndman; George Athanasopoulos"
+  year: 2021
+  domain: [time_series, forecasting]
+  source_url: https://otexts.com/fpp3/
+  license: "free online (see site)"
+
+- id: islr2
+  title: "An Introduction to Statistical Learning (2e)"
+  author: "Gareth James; Daniela Witten; Trevor Hastie; Robert Tibshirani"
+  year: 2021
+  domain: [ml, statistical_learning]
+  source_url: https://trevorhastie.github.io/ISLR/
+  license: "free online (see site)"
+
+- id: esl2
+  title: "The Elements of Statistical Learning (2e)"
+  author: "Trevor Hastie; Robert Tibshirani; Jerome Friedman"
+  year: 2009
+  domain: [ml, theory]
+  source_url: https://hastie.su.domains/ElemStatLearn/
+  license: "free PDF (see site)"
+
+- id: boyd_cvx
+  title: "Convex Optimization"
+  author: "Stephen Boyd; Lieven Vandenberghe"
+  year: 2004
+  domain: [optimization]
+  source_url: https://web.stanford.edu/~boyd/cvxbook/
+  license: "free PDF (see site)"
+
+- id: sutton_barto_rl
+  title: "Reinforcement Learning: An Introduction (2e)"
+  author: "Richard S. Sutton; Andrew G. Barto"
+  year: 2018
+  domain: [reinforcement_learning]
+  source_url: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+  license: "free PDF (author-hosted)"
+
+- id: bailey_pbo
+  title: "The Probability of Backtest Overfitting"
+  author: "David H. Bailey et al."
+  year: 2014
+  domain: [guardrails, statistics]
+  source_url: https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf
+  license: "free PDF (author-hosted)"
+
+- id: bailey_dsr
+  title: "The Deflated Sharpe Ratio"
+  author: "David H. Bailey; Marcos López de Prado"
+  year: 2014
+  domain: [guardrails, statistics]
+  source_url: https://www.davidhbailey.com/dhbpapers/deflated-sharpe.pdf
+  license: "free PDF (author-hosted)"
