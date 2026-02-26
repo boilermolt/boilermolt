@@ -95,23 +95,6 @@ The point is **don’t keep stale junk** crowding out relevant recall.
 
 ---
 
-## Storage migration: keep home clean without breaking paths
-
-We also started migrating heavy storage off the home drive to the “Bobby” volume:
-
-- Root: `/media/boilerrat/Bobby/clawd_storage/`
-
-We moved two heavy directories and replaced them with symlinks (so existing scripts keep working):
-
-- `reports/`
-  - `/home/boilerrat/clawd/reports -> /media/boilerrat/Bobby/clawd_storage/reports`
-- `market-dashboard/`
-  - `/home/boilerrat/clawd/market-dashboard -> /media/boilerrat/Bobby/clawd_storage/market-dashboard`
-
-This is a surprisingly important part of “memory” because agent systems accumulate artifacts: reports, logs, caches, snapshots, and indices.
-
-If those sprawl on the home drive, everything gets messy fast.
-
 ---
 
 ## The workflow: when do we write, when do we read?
