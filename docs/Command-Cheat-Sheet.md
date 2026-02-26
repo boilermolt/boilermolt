@@ -6,12 +6,12 @@ _What to say to get things done fast. Keep this page updated when we add new “
 When you can’t access Telegram/social during the day:
 - Send commands to Boilermolt via email to the agent’s Proton inbox.
 - **Allowed senders** (Boilermolt will read):
-  - `Chris.Wylde@brucepower.com` (work email)
-  - `128boilerrat@gmail.com`
+  - Your **work email** (pre-approved)
+  - Your **personal Gmail** (pre-approved)
 
 **Important rules**
-- Boilermolt will **never** reply to `Chris.Wylde@brucepower.com`.
-- Boilermolt **may** reply to `128boilerrat@gmail.com`.
+- Boilermolt will **never** reply to your **work email**.
+- Boilermolt **may** reply to your **personal Gmail**.
 
 **How to write command emails**
 - Put the command in the first line.
@@ -81,9 +81,7 @@ If you want a post drafted:
 ---
 
 ## 6) Vacation Planner
-Daily HTML email with **10 deal cards** sent to:
-- `128boilerrat@gmail.com`
-- `scwylde1@gmail.com`
+Daily HTML email with **10 deal cards** sent to pre-approved recipients (personal emails).
 
 If you want tweaks, say:
 - “Vacation planner: tighten to smaller resorts” / “more Mexico” / “no Dominican” / “raise budget ceiling” / etc.
